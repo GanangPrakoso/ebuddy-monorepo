@@ -8,7 +8,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "npx turbo run dev --parallel"
+    "dev": "npx turbo run dev --parallel",
+    "build": "npx turbo run build"
   },
   "keywords": [],
   "author": "",

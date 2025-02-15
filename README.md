@@ -40,6 +40,12 @@ Start both the frontend and backend in parallel:
 npm run turbo run dev --parallel
 ```
 
+or
+
+```sh
+npm run dev
+```
+
 Alternatively, you can run each app separately:
 
 ```sh
